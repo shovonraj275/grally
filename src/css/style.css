@@ -1,0 +1,42 @@
+meta {
+
+}
+
+
+
+title {
+
+}
+
+
+
+link {
+
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+div.card_part {
+    display: inline-flex;
+    width: 100%;
+}
+
+div.card_part div.card {
+    width: 30%;
+    margin: 10px;
+    border: 2px solid #47ad47;
+   padding: 20px 10px;
+}
+
+div.card_part div.card img {
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+}
+
